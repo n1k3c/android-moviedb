@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Maiden</string>
+    <string name="error_title">Error</string>
+    <string name="extends_base_activity">Activity doesn\'t extend BaseActivity</string>
+
+</resources>
